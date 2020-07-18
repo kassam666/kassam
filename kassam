@@ -1,0 +1,55 @@
+1: pkg update
+
+2: pkg upgrade
+
+3: pkg install python
+
+4: pkg install python2
+
+5: pkg install python3
+
+6: pkg install ruby
+
+7: pkg install git
+
+8: pkg install php
+
+9: pkg install java
+
+10: pkg install google
+
+11: pkg install bash
+
+12: pkg install perl
+
+13: pkg install nmap
+
+14: pkg install clang
+
+15: pkg install macchanger
+
+16: pkg install nano
+
+17:pkg install figlet
+
+18: pkg install cowsay
+
+19: pkg install curl
+
+20: pkg install tar
+
+21: pkg install zip
+
+22: pkg install unzip
+
+23: pkg install tor
+
+24: pkg install sudo
+
+25: pkg install wget
+
+26: pkg install wcalc
+
+27: pkg install openssl
+
+28: pkg install bmon
